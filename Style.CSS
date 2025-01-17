@@ -1,0 +1,22 @@
+body{
+    font-family:"Arial",sans-serif ;
+    background-color: black;
+    color: white;
+}
+   
+h1{
+    color: skyblue;
+}
+       /*atribute selecter */
+    a{
+        color: aliceblue;
+        text-decoration: none;
+    }
+    a:hover{
+        color: blue;
+    }
+
+    
+/*::after pseudo-elements*/
+a::after {
+    cont/> ;
